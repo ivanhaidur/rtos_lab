@@ -12,3 +12,4 @@
 | 3 | Черги (Queues) у FreeRTOS | [lab3](https://github.com/ivanhaidur/rtos_lab/tree/lab3) |
 | 4 | Counting Semaphore, Binary Semaphore, Mutex у FreeRTOS | [lab4](https://github.com/ivanhaidur/rtos_lab/tree/lab4) |
 | 5 | Direct to task notification, software timers у FreeRTOS | [lab5](https://github.com/ivanhaidur/rtos_lab/tree/lab5) |
+| 6 | Stream & message buffers, event groups у FreeRTOS | [lab6](https://github.com/ivanhaidur/rtos_lab/tree/lab6) |
