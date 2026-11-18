@@ -1,0 +1,10 @@
+lab2
+build/
+lab2.exe
+*.o
+run_*.txt
+*.obj
+*.pdb
+*.ilk
+*.exe
+results/
