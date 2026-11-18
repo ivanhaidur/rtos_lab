@@ -1,0 +1,10 @@
+lab6
+build/
+lab6.exe
+*.o
+run_*.txt
+*.obj
+*.pdb
+*.ilk
+*.exe
+results/
